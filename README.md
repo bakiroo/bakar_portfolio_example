@@ -1,2 +1,0 @@
-# bakar
-landing page (test)
